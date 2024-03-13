@@ -188,10 +188,10 @@ header .buttons i {
 
 @media (max-width: 450px) {
     .search-area {
-        width: 400px;
+        width: 250px;
      }
     header {
-        flex-direction: column; 
+         
 }
 .header .buttons i {
     border-radius: 10px;
