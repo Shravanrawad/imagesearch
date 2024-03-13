@@ -187,13 +187,9 @@ header .buttons i {
 }
 
 @media (max-width: 580px) {
-    header {
-        flex-direction: column;
-        height: 150px;
-    }
-    .images img {
-        width: 70%;
-    }
+    .search-area {
+        width: 400px;
+     }
 }
 .header .buttons i {
     border-radius: 10px;
